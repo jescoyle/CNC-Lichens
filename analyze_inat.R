@@ -73,6 +73,7 @@ user_summary %>%
   facet_grid( ~ year) + 
   geom_histogram(binwidth = 2, boundary = 0, closed = "left", fill = period_colors["during"], color = "grey10") +
   scale_y_continuous(expand = c(0,0), limits = c(0, max_y)) +
+  scale_x_continuous(limits = c(0, 100)) +
   labs(x = "Number of lichen observations",
        y = "Number of participants") +
   use_theme +
@@ -82,9 +83,10 @@ user_summary %>%
 
 # Calculate quantiles for specific values
 user_summary %>%
-#  group_by(year) %>%
-  group_by() %>%
-  summarise(perc1 = sum(n_obs <= 1)/n(),
+  group_by(year) %>%
+ # group_by() %>%
+  summarise(total = n(),
+            perc1 = sum(n_obs <= 1)/n(),
             perc2 = sum(n_obs <= 2)/n(),
             perc10 = sum(n_obs < 10)/n(),
             quant50  = quantile(n_obs, probs = 0.5), 
@@ -95,10 +97,10 @@ user_summary %>%
 #2020: 47% observed 1 lichen, 72% observed 2 or fewer, 90% observed 6 or fewer, 5% observed more than 10.
 
 # Number of unique participants across both years
-length(unique(user_summary$user.login)) #402
+length(unique(user_summary$user.login)) #420
 
 # Number of participants summed across years
-nrow(user_summary) # 458
+nrow(user_summary) # 477
 
 ### Table of all lichen taxa observed with quality grade
 taxa_summary <- dat1 %>%
@@ -134,39 +136,51 @@ air <- read.csv("data/EPA_AirData/annual_aqi_by_county_2019.csv")
 city_dat <- read.csv("figures/table 1.csv")
 names(city_dat)[1] <- "County"
 
-use_counties <- c("Los Angeles", "Mendocino", "Orange", "Sacramento", "San Diego", "San Francisco")
+use_counties <- c("Los Angeles", "Mendocino", "Orange", "Sacramento", 
+                  "San Diego", "San Francisco", "Riverside", "San Bernardino")
 
+# Get air quality for participating counties
 CNC_air <- air %>%
   filter(State == "California", County %in% use_counties) %>%
-  select(County, Good.Days, Moderate.Days, Unhealthy.for.Sensitive.Groups.Days, Median.AQI) %>%
-  left_join(city_dat)
+  select(County, Good.Days, Moderate.Days, Unhealthy.for.Sensitive.Groups.Days, Median.AQI) 
+
+# Calculate air quality of Inland Empire as the median of Riverside and San Bernardino counties
+IE_air <- CNC_air %>%
+  filter(County %in% c("Riverside", "San Bernardino")) %>%
+  select(-County) %>%
+  summarise_all(median)
+
+CNC_air <- rbind(CNC_air, data.frame(County = "Inland Empire", IE_air))
+
+# Add lichen observation data from CNC
+CNC_air <- left_join(city_dat, CNC_air)
 
 # Figure 1
 CNC_air %>%
   filter(Year == 2020) %>%
   ggplot(aes(x = Median.AQI, y = obs_pct_lichen)) +
-  geom_smooth(method = "lm", color = "black", fill = paste0(period_colors["during"], "10")) +
-  geom_point(pch = 21, size = 4, fill ="white") +
-  use_theme +
-  ylim(c(0,0.015)) +
-  labs(x = "Median 2019 AQI",
-       y = "Fraction of observations that are lichens")
+    geom_smooth(method = "lm", color = period_colors["during"], se = FALSE) +
+    geom_point(pch = 21, size = 4, fill = period_colors["during"]) +
+    use_theme +
+    ylim(c(0,0.015)) +
+    labs(x = "Median 2019 AQI",
+         y = "Fraction of observations that are lichens")
 
 CNC_air %>%
   filter(Year == 2020) %>%
   ggplot(aes(x = Median.AQI, y = users_pct_lichen)) +
-  geom_smooth(method = "lm", color = period_colors["during"], se = FALSE) +
-  geom_point(pch = 21, size = 4, fill = period_colors["during"]) +
-  use_theme +
-  ylim(c(0,0.06)) +
-  labs(x = "Median 2019 AQI",
-       y = "Fraction of participants observing lichens")
+    geom_smooth(method = "lm", color = period_colors["during"], se = FALSE) +
+    geom_point(pch = 21, size = 4, fill = period_colors["during"]) +
+    use_theme +
+    ylim(c(0,0.06)) +
+    labs(x = "Median 2019 AQI",
+         y = "Fraction of participants observing lichens")
 
-ggsave("figures/Fig1.svg", height = 3.5, width =4)
+#ggsave("figures/Fig1.svg", height = 3.5, width =4)
 
 CNC_air.2020 <- subset(CNC_air, Year == 2020)
-cor(CNC_air.2020$Median.AQI, CNC_air.2020$obs_pct_lichen) # r = -0.72
-cor(CNC_air.2020$Median.AQI, CNC_air.2020$users_pct_lichen) # r = -.77
+cor(CNC_air.2020$Median.AQI, CNC_air.2020$obs_pct_lichen) # r = -0.42
+cor(CNC_air.2020$Median.AQI, CNC_air.2020$users_pct_lichen) # r = -.37
 
 
 

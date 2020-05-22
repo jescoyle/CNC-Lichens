@@ -45,11 +45,11 @@ for(p in CA_cities$City_name){
 }
 
 # Look up individual place ids to determine which is correct
-place_dat <- fromJSON(getURL("https://api.inaturalist.org/v1/places/121516"))
+place_dat <- fromJSON(getURL("https://api.inaturalist.org/v1/places/118666"))
 place_dat$results[[1]]$display_name
 
 # Manually choose correct ones for San Diego and SF Bay Area
-CA_cities_ids['Inland Empire'] <- 118665
+CA_cities_ids['Inland Empire'] <- "520,917" # Combines Riverside and San Bernadino Counties
 CA_cities_ids['Los Angeles County'] <- 962 
 CA_cities_ids['Mendocino County'] <- 436
 CA_cities_ids['Orange County'] <- 2738
@@ -143,12 +143,24 @@ obs_url <- "https://api.inaturalist.org/v1/observations?"
 # Read in summary for CNC CA cities
 CA_cities <- read.csv("data/CNC_cities_CA_2019-2020.csv")
 
+# Define vector of CA city ids (used inside extract_obs2df function)
+city_rows <- unique(CA_cities[, c("City_name", "place_id")])
+
+CA_city_ids <- data.frame()
+
+for(i in 1:nrow(city_rows)){
+  pids <- strsplit(city_rows[i, "place_id"], ",")
+  
+  CA_city_ids <- rbind(CA_city_ids, data.frame(City_name = city_rows[i, "City_name"], place_id = unlist(pids)))
+  
+
+}
+  
+
+
 ### A function that gets the necessary fields from a json observations download
 ### x = a list item in the $results slot of an object returned by getJSON query to the iNat API
 extract_obs2df <- function(x){
-  
-  # Define vector of CA city ids
-  CA_city_ids <- unique(CA_cities[, c("City_name", "place_id")])
   
   # Determine whether observation is from a CNC city
   if(sum(x$place_ids %in% CA_city_ids$place_id) > 0){
@@ -257,6 +269,7 @@ for(y in 2019:2020){
 }
 
 #write.csv(CNC_CA, "data/CNC_CA.csv", row.names = FALSE)
+
 
 
 #####################################################

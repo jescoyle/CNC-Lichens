@@ -1,11 +1,12 @@
 "city","year","n_users","n_obs","n_taxa"
+"Inland Empire","2020",18,81,38
 "Los Angeles County","2019",26,47,28
-"Los Angeles County","2020",14,28,17
+"Los Angeles County","2020",14,30,19
 "Mendocino County","2020",6,15,12
 "Orange County","2020",4,8,8
 "Sacramento","2019",25,38,12
 "Sacramento","2020",17,33,28
-"San Diego County","2019",61,278,93
-"San Diego County","2020",26,93,38
-"San Francisco Bay Area","2019",151,554,119
-"San Francisco Bay Area","2020",128,443,112
+"San Diego County","2019",61,277,92
+"San Diego County","2020",26,92,38
+"San Francisco Bay Area","2019",151,553,119
+"San Francisco Bay Area","2020",129,448,112
