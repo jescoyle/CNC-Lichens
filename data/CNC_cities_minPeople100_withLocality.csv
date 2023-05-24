@@ -1,0 +1,557 @@
+﻿Year,CityVerbatim,City,Locality,PlaceID,Observations,Species,People
+2021,"Adelaide (Greater Adelaide), South Australia, Australia","Adelaide, South Australia, Australia","Greater Adelaide, SA, AU",146094,5353,1099,157
+2020,"Adelaide, South Australia, Australia","Adelaide, South Australia, Australia","Greater Adelaide, SA, AU",146094,6701,1205,188
+2022,"Adelaide, South Australia, Australia","Adelaide, South Australia, Australia","Greater Adelaide, SA, AU",146094,5291,1059,186
+2021,"Alachua County (Gainesville), Florida, USA","Alachua County, Florida, USA","Alachua County, US, FL",2511,10407,1886,276
+2020,"Alachua County, Florida, USA","Alachua County, Florida, USA","Alachua County, US, FL",2511,10287,1773,276
+2022,"Alachua County, Florida, USA","Alachua County, Florida, USA","Alachua County, US, FL",2511,3930,1099,173
+2020,"Albuquerque, New Mexico, USA","Albuquerque, New Mexico, USA","Bernalillo County, US, NM",2390,5020,1013,316
+2021,"Albuquerque, New Mexico, USA","Albuquerque, New Mexico, USA",multiple,2390 397 1261,10605,1273,350
+2022,"Albuquerque, New Mexico, USA","Albuquerque, New Mexico, USA",multiple,2390 397 1261,13319,1590,420
+2019,"Albuquerque, NM, USA","Albuquerque, New Mexico, USA","Bernalillo County, US, NM",2390,8230,1211,334
+2020,"Ann Arbor, Michigan, USA","Ann Arbor, Michigan, USA","Washtenaw County, US, MI",2649,1723,497,99
+2021,"Ann Arbor, Michigan, USA","Ann Arbor, Michigan, USA","Washtenaw County, US, MI",2649,1594,464,137
+2020,"Asheville (Western NC), North Carolina, USA","Western NC, North Carolina, USA",multiple,1267 2399 1111 2665 3054 1175 1192 919 989 1270 572 879 375 930 946 332 331 1177 2687 876 573 334 216 2714 2727 873,6498,1392,521
+2019,"Asheville, NC, USA","Western NC, North Carolina, USA",multiple,1267 2399 1111 2665 3054 1175 1192 919 989 1270 572 879 375 930 946 332 331 1177 2687 876 573 334 216 2714 2727 873,5438,1222,277
+2022,"Asheville, North Carolina, USA","Western NC, North Carolina, USA",multiple,1267 2399 1111 2665 3054 1175 1192 919 989 1270 572 879 375 930 946 332 331 1177 2687 876 573 334 216 2714 2727 873,7136,1713,674
+2019,"Atlanta, GA, USA","Atlanta, Georgia, USA","Atlanta City Nature Challenge, GA, US",130842,8920,1483,423
+2020,"Atlanta, Georgia, USA","Atlanta, Georgia, USA",multiple,130842 2866 978 686 2871 688 689 690 726 2524 704,7215,1392,754
+2021,"Atlanta, Georgia, USA","Atlanta, Georgia, USA","Atlanta City Nature Challenge, GA, US",130842,7205,1516,488
+2022,"Atlanta, Georgia, USA","Atlanta, Georgia, USA","Atlanta City Nature Challenge, GA, US",130842,6561,1733,503
+2020,"Auckland, Auckland, New Zealand","Auckland, Auckland, New Zealand","Auckland, NZ",8345,2218,885,211
+2018,"Austin Area, TX, United States of America","Austin, Texas, USA","Greater Austin, TX, US",60211,17416,2324,618
+2022,"Austin Metro Area, Texas, USA","Austin, Texas, USA","Greater Austin, TX, US",60211,19480,2872,1145
+2020,"Austin, Texas, USA","Austin, Texas, USA","Greater Austin, TX, US",60211,18213,2505,1165
+2021,"Austin, Texas, USA","Austin, Texas, USA","Greater Austin, TX, US",60211,16929,2480,1055
+2019,"Austin, TX, USA","Austin, Texas, USA","Greater Austin, TX, US",60211,16005,2295,752
+2021,"Baltimore Area, Maryland, USA","Baltimore, Maryland, USA",multiple,1818 48807 108234 48810 2036 48820 13398,13421,1917,854
+2022,"Baltimore Metropolitan Area, Maryland, USA","Baltimore, Maryland, USA",multiple,1818 48807 108234 48810 2036 48820 13398,7890,1393,709
+2020,"Baltimore, Maryland, USA","Baltimore, Maryland, USA",multiple,1818 48807 108234 48810 2036 48820 13398,10961,1501,663
+2018,"Baltimore, MD, United States of America","Baltimore, Maryland, USA","Baltimore City Nature Challenge, MD, US",122861,5733,994,408
+2019,"Baltimore, MD, USA","Baltimore, Maryland, USA",multiple,1818 48807 108234 48810 2036 48820 13398,8499,1268,458
+2018,"Barcelona Metropolitan Area, Catalonia","Barcelona Metropolitan Area, Catalonia","Barcelona, CT, ES",30022,6653,922,151
+2021,"Baton Rouge, Louisiana, USA","Baton Rouge, Louisiana, USA",multiple,1984 2098 2208 123 124 1642 2104 107086 107083 2108 1643 1645,7687,1539,264
+2022,"Baton Rouge, Louisiana, USA","Baton Rouge, Louisiana, USA",multiple,1984 2098 2208 123 124 1642 2104 107086 107083 2108 1643 1645,15100,2436,398
+2022,"Berlin, Berlin, Germany","Berlin, Germany","Berlin, DE",12872,4748,868,105
+2021,"Berlin, Berlin, Germany","Berlin, Germany","Berlin, DE",12872,5045,740,86
+2018,"Berlin, Germany","Berlin, Germany","Berlin, BE, DE",29472,1791,448,334
+2019,"Berlin, Germany","Berlin, Germany","Berlin, BE, DE",29472,3003,596,732
+2020,"Birmingham & Black Country, Midlands, UK","Birmingham & Black Country, Midlands, UK","Birmingham & Black Country, England, GB",144101,16145,1370,276
+2021,"Birmingham & Black Country, Midlands, UK","Birmingham & Black Country, Midlands, UK","Birmingham & Black Country, England, GB",144101,9278,914,186
+2022,"Birmingham & Black Country, West Midlands, UK","Birmingham & Black Country, Midlands, UK","Birmingham & Black Country, England, GB",144101,12687,1211,163
+2021,"Birmingham Metro Area, Alabama, USA","Birmingham Metro Area, Alabama, USA",multiple,2285 2066 1481 772 1788 1385 2597 343 1249 108241 1819 2600 1981,1158,563,147
+2019,"Birmingham, AL, USA","Birmingham Metro Area, Alabama, USA",multiple,2285 2066 1481 772 1788 1385 2597 343 1249 108241 1819 2600 1981,3323,1066,231
+2020,"Birminghham Metro Area, Alabama, USA","Birmingham Metro Area, Alabama, USA",multiple,2285 2066 1481 772 1788 1385 2597 343 1249 108241 1819 2600 1981,1756,781,196
+2019,"BogotÂ , Colombia","Bogotá, Colombia","Bogotá D.C., CO",59580,10583,1254,449
+2022,"BogotÃ¡, Cundinamarca, BogotÃ¡ D.C., Colombia","Bogotá, Colombia",multiple,59580 28784,5301,839,236
+2021,"BogotÃ¡, Cundinamarca, Colombia","Bogotá, Colombia",multiple,59580 171477 171476 171480 171479 171478 171481,6396,910,309
+2018,"BogotÃ¡, D.C., Cundinamarca- Colombia","Bogotá, Colombia","Bogotá, D.C",28784,7911,1080,339
+2021,"Boise Area, Idaho, USA","Boise, Idaho, USA",Boise Area,145013,3157,587,126
+2022,"Boise, Idaho, USA","Boise, Idaho, USA",Boise Area,145013,2246,558,143
+2020,"Bolzano, South Tyrol, Italy","Bolzano, South Tyrol, Italy",Bolzano Urban Nature,146780,3271,934,148
+2018,"Boston Area, MA, United States of America","Boston, Massachusetts, USA",Greater Boston,118678,16551,1410,992
+2021,"Boston Area, Massachusetts, USA","Boston, Massachusetts, USA",Boston Area CNC,146061,24111,2093,1759
+2019,"Boston, MA, USA","Boston, Massachusetts, USA",Boston Area CNC (2019),137722,20329,1574,1107
+2020,"Boston, Massachusetts, USA","Boston, Massachusetts, USA",Boston Area CNC,146061,15249,1765,1013
+2022,"Greater Boston, Massachusetts, USA","Boston, Massachusetts, USA",Boston Area CNC,146061,3475,786,107
+2019,"Boulder-Denver Metro, CO, USA","Denver-Boulder Metro, Colorado, USA","Boulder-Denver Metro Area, CO, US",131251,6210,969,406
+2018,"Denver Metro Area, CO, United States of America AND Boulder, CO, United States of America","Denver-Boulder Metro, Colorado, USA",multiple,122714 1733,8286,,417
+2020,"Denver-Boulder Metro Area, Colorado, USA","Denver-Boulder Metro, Colorado, USA",Denver-Boulder Metro Area,146793,5847,838,443
+2021,"Denver-Boulder Metro, Colorado, USA","Denver-Boulder Metro, Colorado, USA",Denver-Boulder Metro Area,146793,4362,735,365
+2022,"Denver-Boulder, Colorado, USA","Denver-Boulder Metro, Colorado, USA",Denver-Boulder Metro Area,146793,3007,631,366
+2021,"BrasÃ­lia and Economic Region, Distrito Federal, Goias and Minas Gerais, Brazil","Brasília, Brasil",multiple,20985 20991 20995 20996 21694 21016 20905 21745 21747 21026 21044 21048 21049 21052 21054 21070 21071 21075 21114 21122 21138 21147 21152 21164 21166 21192 21206 21196 22474 21220 21224 21225 20988 20990,3605,940,169
+2022,"BrasÃ­lia e RegiÃ£o, Distrito Federal, Brasil","Brasília, Brasil",multiple,20985 20991 20995 20996 21694 21016 20905 21745 21747 21026 21044 21048 21049 21052 21054 21070 21071 21075 21114 21122 21138 21147 21152 21164 21166 21192 21206 21196 22474 21220 21224 21225 20988 20990,2154,569,167
+2019,"Brasilia, Brazil","Brasília, Brasil","Brasília, DF, BR",20905,752,316,100
+2021,"Brighton & Eastern Downs, South East England, UK","Brighton, Sussex, UK","Brighton & Eastern Downs, England, GB",164862,6101,1128,133
+2020,"Brighton & Lewes Downs Biosphere, South-east, UK","Brighton, Sussex, UK","Brighton & Lewes Downs Biosphere, England, GB",145968,1926,598,111
+2022,"Brighton, Sussex, UK","Brighton, Sussex, UK","Brighton & Eastern Downs, England, GB",164862,7097,1340,175
+2018,"Bristol & Bath City Region, Somerset / Gloucestershire, United Kingdom","Bristol & Bath City Region, UK","Bristol and Bath Region, England, GB",123650,9518,1135,333
+2019,"Bristol & Bath City Region, UK","Bristol & Bath City Region, UK","Bristol and Bath Region, England, GB",123650,15350,1514,346
+2020,"Bristol & Bath, UK","Bristol & Bath City Region, UK","Bristol and Bath Region, England, GB",123650,8851,1354,539
+2022,"Bristol and Bath City Region, Somerset and South Gloucestershire, UK","Bristol & Bath City Region, UK","Bristol and Bath Region, England, GB",123650,7970,1290,392
+2021,"Bristol and Bath City Region, UK","Bristol & Bath City Region, UK","Bristol and Bath Region, England, GB",123650,8299,1019,417
+2021,"Brno, Czech Republic","Brno, Czech Republic","Brno, BK, CZ",29372,7973,1032,357
+2020,"Brno, JihomoravskÃ½ kraj, Czech Republic","Brno, Czech Republic","Brno, BK, CZ",29372,2648,614,129
+2022,"Brno, JihomoravskÃ½ kraj, Czech Republic","Brno, Czech Republic","Brno, CZ",180463,5934,1013,247
+2022,"Bryan/College Station, Texas, USA","Bryan/College Station, Texas, USA","Greater Bryan/College Station Area, TX, US",138227,2743,826,123
+2021,"Bucaramanga, Santander, Colombia","Bucaramanga, Santander, Colombia","Área Metropolitana de Bucaramanga, ST, CO",135899,6718,1333,368
+2022,"Bucaramanga, Santander, Colombia","Bucaramanga, Santander, Colombia","Área Metropolitana de Bucaramanga, ST, CO",135899,8399,1328,419
+2021,"Buenos Aires y alrededores, Ciudad AutÃ³noma de Buenos Aires, Argentina","Buenos Aires, Argentina",multiple,14090 10434 138311 138312 138229 14144 14146 14153 14160 14163 14164 14177 138228 14192 14199 14207,2822,734,136
+2020,"Ciudad AutÃ³noma de Buenos Aires, Buenos Aires, Argentina","Buenos Aires, Argentina",multiple,14090 10434 138311 138312 138229 14144 14146 14153 14160 14163 14164 14177 138228 14192 14199 14207,1488,569,118
+2018,"Buenos Aires, Argentina","Buenos Aires, Argentina",Ciudad de Buenos Aires y alrededores,124987,170,96,18
+2019,"Buenos Aires, Argentina","Buenos Aires, Argentina",multiple,14090 10434 138311 138312 138229 14144 14146 14153 14160 14163 14164 14177 138228 14192 14199 14207,2527,572,105
+2022,"Almirante Brown, Avellaneda, Berazategui, Florencio Varela, Esteban Echeverría, Lomas de Zamora, Lanús, Quilmes y San Vicente, Buenos Aires, Argentina","Buenos Aires, Argentina","Ciudad de Buenos Aires, AR",10434,894,378,38
+2021,"Burlington/Winooski, Vermont, USA","Burlington/Winooski, Vermont, USA",multiple,50939 55623,1762,425,138
+2020,"Calgary Metropolitan Region (CMR), Alberta, Canada","Calgary, Canada",multiple,146872 146875 132936 146873 149059 146874,5465,755,239
+2021,"Calgary Metropolitan Region, Alberta, Canada","Calgary, Canada",multiple,146872 146875 132936 146873 149059 146874,6689,778,267
+2022,"Calgary Metropolitan Region, Alberta, Canada","Calgary, Canada",multiple,146872 146875 132936 146873 180322 149059 180323 146874 163098,17317,930,410
+2019,"Calgary, Canada","Calgary, Canada",City of Calgary,132936,4488,629,140
+2022,"Cambridge, Ontario, Canada","Waterloo Region, Ontario, Canada","Regional Municipality of Waterloo, CA, ON",27609,2019,464,131
+2021,"Waterloo Region (Cambridge), Ontario, Canada","Waterloo Region, Ontario, Canada","Regional Municipality of Waterloo, CA, ON",27609,1948,551,169
+2018,"Waterloo Region, Ontario, Canada","Waterloo Region, Ontario, Canada","Regional Municipality of Waterloo, CA, ON",27609,2574,433,87
+2019,"Cape Town, South Africa","Cape Town, Western Cape, South Africa","City of Cape Town, WC, ZA",52355,53763,4588,1141
+2020,"Cape Town, Western Cape, South Africa","Cape Town, Western Cape, South Africa",multiple,52355 146091,34147,3263,1029
+2021,"Cape Town, Western Cape, South Africa","Cape Town, Western Cape, South Africa",multiple,52355 146091,71142,4766,1315
+2022,"Cape Town, Western Cape, South Africa","Cape Town, Western Cape, South Africa",multiple,52355 146091,66144,4388,1682
+2021,"Central Ohio (Columbus), Ohio, USA","Columbus, Ohio, USA",multiple,1297 356,1373,558,205
+2022,"Columbus (Central Ohio), Ohio, USA","Columbus, Ohio, USA",multiple,1297 1523 1358 356 221 2975 790 108 293 1694 708 251 791 1406 2407,1669,592,348
+2021,"Central Taiwan (Taichung,Miaoli,Nantong,Changhua), Central Taiwan, Taiwan","Central Taiwan, Taiwan","Central Taiwan, TW",146729,2775,942,174
+2020,"Central Taiwan, Taichung, Taiwan","Central Taiwan, Taiwan","Central Taiwan, TW",146729,4518,1477,183
+2022,"Central Taiwan, Taiwan, Taiwan","Central Taiwan, Taiwan","Central Taiwan, TW",146729,1722,837,200
+2021,"Charlotte Metro Region, North Carolina, USA","Charlotte, North Carolina, USA",multiple,104 2178 2666 242 582 2952 2954 1116 2956 1355 2959 1195,2971,970,299
+2020,"Charlotte Metro, North Carolina, USA","Charlotte, North Carolina, USA",multiple,104 2178 242 2667 582 2952 2954 1116 2956 2958 1355 2957 2959 1195,1860,742,286
+2019,"Charlotte, NC, USA","Charlotte, North Carolina, USA",multiple,2178 242 582 2952 2954 1116 2957 2959 1195,8715,1213,377
+2022,"Charlotte, North Carolina, USA","Charlotte, North Carolina, USA",multiple,104 2178 2666 242 582 2952 2954 1116 2956 1355 2957 2959 1195,2956,843,357
+2020,"Charlottesville, Virginia, USA","Charlottesville, Virginia, USA",multiple,2913 13435 3032,1483,550,123
+2021,"Charlottesville, Virginia, USA","Charlottesville, Virginia, USA",multiple,2913 13435 1721 1722 3032 2003,1557,632,186
+2022,"Charlottesville, Virginia, USA","Charlottesville, Virginia, USA",multiple,2913 13435 1721 1722 3032 2003 743,2020,690,217
+2018,"Charlottesville, VA, United States of America","Charlottesville, Virginia, USA","Greater Charlottesville-Albemarle County, VA, US",124476,387,250,32
+2019,"Charlottesville, VA, USA","Charlottesville, Virginia, USA",multiple,2913 13435 743,460,241,46
+2020,"Chattanooga, Tennessee, USA","Chattanooga, Tennessee, USA",multiple,2624 2625 681 684 107064 1171 2134 1705 1704 265 1324 266 1773 270 1091 705,3418,1075,250
+2021,"Chattanooga, Tennessee, USA","Chattanooga, Tennessee, USA",multiple,2624 2625 681 684 107064 1171 2134 1705 1704 265 1324 266 1773 270 1091 705,3356,1090,257
+2022,"Chattanooga, Tennessee, USA","Chattanooga, Tennessee, USA",multiple,2624 2625 681 684 107064 1171 2134 1705 1704 265 1324 266 1773 270 1091 705,3077,1162,231
+2020,"Chiayi, Chiayi, Taiwan","Chiayi-Yunlin, Taiwan",multiple,138248 138247,11937,1827,133
+2019,"Chiayi, Taiwan","Chiayi-Yunlin, Taiwan",multiple,138248 138247,10130,1607,169
+2021,"Chiayi, Yunlin, Chiayi-Yunlin Taiwan, Taiwan","Chiayi-Yunlin, Taiwan",multiple,138248 138247 138232,17211,1907,142
+2022,"Chiayi, Yunlin, Taiwan, Taiwan","Chiayi-Yunlin, Taiwan",multiple,138248 138247 138232,19297,2598,209
+2021,"Chicago Metro, Illinois, USA","Chicago, Illinois, USA",multiple,1859 396 2298 1423 961 351 336 1544 429 373 1248 1125 425 857,12112,1543,1091
+2022,"Chicago Metro, Illinois, Wisconsin, Indiana, USA","Chicago, Illinois, USA",multiple,1859 396 2298 1423 961 351 336 1544 429 373 1248 1125 425 857,9209,1311,874
+2018,"Chicago Wilderness Region, IL, United States of America","Chicago, Illinois, USA","Chicago Wilderness, US",57482,6869,1017,353
+2019,"Chicago, IL, USA","Chicago, Illinois, USA","Chicago Wilderness, US",57482,7985,1045,339
+2020,"Chicago, Illinois, USA","Chicago, Illinois, USA",multiple,1859 396 961 429 1248 857,4299,802,552
+2021,"Chiriqui, Chiriqui, Panamá","Chiriquí, Panamá","Chiriquí, PA",13152,2111,831,86
+2022,"ChiriquÃ­ , ChiriquÃ­ , Panama","Chiriquí, Panamá","Chiriquí, PA",13152,5559,1685,142
+2020,"David City, ChiriquÃ­, PanamÃ¡","Chiriquí, Panamá",multiple,40617 40618 40619 13152 40620 40621,7096,1850,180
+2019,"Christchurch, New Zealand","Ōtautahi/Christchurch, Canterbury, New Zealand","Christchurch District, NZ",129542,17549,2377,312
+2020,"?tautahi/Christchurch, Canterbury, New Zealand","Ōtautahi/Christchurch, Canterbury, New Zealand","Christchurch District, NZ",129542,7579,1399,157
+2021,"?tautahi/Christchurch, Canterbury, New Zealand","Ōtautahi/Christchurch, Canterbury, New Zealand",multiple,129542 40469,11411,1749,154
+2022,"?tautahi/Christchurch, Canterbury, New Zealand","Ōtautahi/Christchurch, Canterbury, New Zealand",multiple,129542 40469 67552 131260,"9,573","1,543",164
+2022,"Chur, Chur, Switzerland","Chur, Chur, Switzerland",Switzerland,7236,10404,905,335
+2021,"Cincinnati - Hamilton County, Ohio, USA","Cincinnati, Ohio, USA","Hamilton County, US, OH",3059,3414,807,260
+2022,"Cincinnati, Ohio, USA","Cincinnati, Ohio, USA","Hamilton County, US, OH",3059,3228,800,196
+2022,"City of Port Coquitlam, Coquitlam, Port Moody, British Columbia, Canada","Tri-Cities, British Columbia, Canada",multiple,178276 178958 178271,2790,628,129
+2019,"Ciudad de Mâ€šxico, Mexico","Ciudad de México, México","Distrito Federal, MX",59014,9751,1216,354
+2021,"Ciudad de MÃ©xico, Ciudad de MÃ©xico, MÃ©xico","Ciudad de México, México","Distrito Federal, MX",59014,3881,760,204
+2022,"Ciudad de MÃ©xico, Ciudad de MÃ©xico, MÃ©xico","Ciudad de México, México","Distrito Federal, MX",59014,8450,1514,440
+2021,"Ciudad de PanamÃ¡ y San Miguelito, PanamÃ¡, PanamÃ¡","Ciudad de Panamá, Panamá",multiple,40668 40670,3029,1053,171
+2019,"PanamÂ , PanamÂ ","Ciudad de Panamá, Panamá","Panamá, PA, PN",40668,5225,1193,298
+2022,"PanamÃ¡, PanamÃ¡, Panama","Ciudad de Panamá, Panamá",multiple,40668 40670,4955,1325,358
+2020,"PanamÃ¡, PanamÃ¡, PanamÃ¡","Ciudad de Panamá, Panamá",multiple,40668 40670,2347,785,118
+2018,"Cleveland, OH, United States of America","Cleveland-Akron-Canton, OH, USA",Cleveland-Akron-Canton,122777,6636,1111,329
+2019,"Cleveland-Akron-Canton, OH, USA","Cleveland-Akron-Canton, OH, USA",Cleveland-Akron-Canton,122777,4126,972,273
+2020,"Cleveland-Akron-Canton, Ohio, USA","Cleveland-Akron-Canton, OH, USA",Cleveland-Akron-Canton,122777,6055,1035,491
+2021,"Cleveland-Akron-Canton, Ohio, USA","Cleveland-Akron-Canton, OH, USA",Cleveland-Akron-Canton,122777,6676,1184,521
+2022,"Cleveland-Akron-Canton-Toledo, Ohio, Ohio, USA","Cleveland-Akron-Canton, OH, USA",multiple,122777 179337,37368,1467,1088
+2020,"Colon, PanamÃ¡","Colón, Panamá",multiple,49438 13153 11525,3493,1139,109
+2021,"Colón, Colón, Panamá","Colón, Panamá",multiple,13153 11525,1273,465,87
+2022,"Colon, Colón, Panama","Colón, Panamá","Colón, PA",13153,435,281,32
+2019,"Colorado Springs, CO, USA","Colorado Springs, Colorado, USA","El Paso County and Pikes Peak, CO, US",134291,3812,742,146
+2020,"Colorado Springs, Colorado, USA","Colorado Springs, Colorado, USA",multiple,134291 118202,3443,717,91
+2021,"Colorado Springs, Colorado, USA","Colorado Springs, Colorado, USA",multiple,134291 118202,939,377,65
+2022,"Colorado Springs, Colorado, Colorado, USA","Colorado Springs, Colorado, USA",multiple,134291 118202,759,296,80
+2020,"Copenhagen, Copenhagen, Denmark","Copenhagen, Denmark","Copenhagen - CityNatureChallenge2020, DK",146572,1649,655,83
+2021,"Copenhagen, Copenhagen, Denmark","Copenhagen, Denmark",CNC Cph 2021,164959,2181,748,164
+2022,"Copenhagen, Denmark, Denmark","Copenhagen, Denmark",CNC Cph 2021,164959,1951,646,142
+2019,"Corpus Christi, TX, USA","Corpus Christi, Texas, USA",multiple,907 865,2943,852,155
+2021,"Corpus Christi Area, Texas, USA","Corpus Christi, Texas, USA",multiple,907 865,983,460,62
+2022,"Corpus Christi & Sinton, Texas, USA","Corpus Christi, Texas, USA",multiple,907 865,674,365,58
+2021,"CosalÃ¡, Sinaloa, MÃ©xico","Cosalá, Sinaloa, México","Cosalá, SI, MX",37681,3728,698,77
+2022,"CosalÃ¡, Sinaloa, MÃ©xico","Cosalá, Sinaloa, México","Cosalá, SI, MX",37681,10879,1695,106
+2021,"Costa Mesa-Orange County, California, USA","Orange County, California, USA","Orange County, US, CA",2738,3275,970,313
+2020,"Orange County, California, USA","Orange County, California, USA","Orange County, US, CA",2738,3921,1078,281
+2022,"Orange County, California, USA","Orange County, California, USA","Orange County, US, CA",2738,1741,669,240
+2019,,"Cuernavaca, Morelos, México","Cuernavaca, MX, MR",37253,,,
+2022,"Cuernavaca, Morelos y Ã¡rea metropolitana, Morelos, MÃ©xico","Cuernavaca, Morelos, México",multiple,37252 37253 37254 37257 37264 37275,4368,1342,187
+2021,"Cuernavaca, Morelos, MÃ©xico","Cuernavaca, Morelos, México",multiple,37253 37257 37264,7796,1298,225
+2022,"Culiacan, Sinaloa, MÃ©xico","Culiacán, Sinaloa, México","Culiacán, MX, SI",49407,11426,1281,240
+2021,"Curitiba and Metropolitan Region, ParanÃ¡ State, Brazil","Curitiba, Paraná, Brazil","Curitiba Metropolitan Area, BR",125697,3795,965,176
+2018,"Curitiba, ParanÃ¡, Brazil","Curitiba, Paraná, Brazil","Curitiba Metropolitan Area, BR",125697,857,275,40
+2020,"Curitiba, ParanÃ¡, Brazil","Curitiba, Paraná, Brazil","Curitiba Metropolitan Area, BR",125697,2697,779,121
+2022,"Grande Curitiba, ParanÃ¡, Brasil","Curitiba, Paraná, Brazil","Curitiba Metropolitan Area, BR",125697,2355,704,118
+2019,"Curitiba, Brazil","Curitiba, Paraná, Brazil","Curitiba Metropolitan Area, BR",125697,63,50,9
+2019,"Dallas - Fort Worth, TX, USA","Dallas-Fort Worth, Texas, USA","DFW Metroplex, TX, US",57484,36370,2637,1008
+2021,"Dallas, Fort Worth, Texas, USA","Dallas-Fort Worth, Texas, USA","DFW Metroplex, TX, US",57484,37594,3060,1124
+2020,"Dallas/Fort Worth (DFW), Texas, USA","Dallas-Fort Worth, Texas, USA","DFW Metroplex, TX, US",57484,33506,2962,1253
+2018,"Dallas/Fort Worth Area, TX, United States of America","Dallas-Fort Worth, Texas, USA","DFW Metroplex, TX, US",57484,34218,2560,815
+2022,"Dallas/Fort Worth, Texas, USA","Dallas-Fort Worth, Texas, USA","DFW Metroplex, TX, US",57484,42398,3417,1324
+2020,"Davao City, Davao del Sur, Philippines","Davao City, Philippines","Davao City, PH, DS",26289,3630,968,93
+2021,"Davao City, Philippines","Davao City, Philippines","Davao City, PH, DS",26289,4504,1044,160
+2022,"Davao City, Davao del Sur, Philippines","Davao City, Philippines","Davao City, PH, DS",26289,3515,738,73
+2021,"Edinburgh (Greater Edinburgh), Scotland central belt, Scotland UK","Edinburgh, Scotland",multiple,30456 30461 30463 30464 30465 30468 30481,1278,426,86
+2022,"Edinburgh, Scotland","Edinburgh, Scotland",multiple,30456 30461 30463 30464 30465 30468 30481,1106,448,101
+2018,"El Paso, TX, United States of America","El Paso, Texas, USA","El Paso County, TX, US",982,302,141,17
+2019,"El Paso, TX, USA","El Paso, Texas, USA","El Paso County, TX, US",982,1161,368,49
+2020,"El Paso, Texas, USA","El Paso, Texas, USA","El Paso County, TX, US",982,1496,489,72
+2021,"El Paso, Texas, USA","El Paso, Texas, USA","El Paso County, TX, US",982,1063,373,53
+2022,"El Paso, Texas, USA","El Paso, Texas, USA","El Paso County, TX, US",982,2698,570,220
+2019,"Ensenada, Mexico","Ensenada, Baja California, México","RNUensenada2019, Ensenada, BS, MX",132537,11134,1442,247
+2020,"Ensenada, Baja California, México","Ensenada, Baja California, México","RNUensenada2019, Ensenada, BS, MX",132537,6649,1124,96
+2021,"Ensenada, Baja California, México","Ensenada, Baja California, México","RNUensenada2019, Ensenada, BS, MX",132537,6925,1032,85
+2022,"Ensenada, Baja California, México","Ensenada, Baja California, México","RNUensenada2019, Ensenada, BS, MX",132537,7884,"1,131",61
+2022,"Erie, Pennsylvania, USA","Erie, Pennsylvania, USA",Greater Erie,177714,2450,580,200
+2020,"Durban, KwaZulu-Natal, South Africa","eThekwini, Kwa-Zulu Natal, South Africa","eThekwini, NL, ZA",108107,2066,903,52
+2021,"eThekwini (Durban), South Africa","eThekwini, Kwa-Zulu Natal, South Africa",multiple,164766 108107,7442,1631,125
+2022,"eThekwini Municipality, Kwa-Zulu Natal, South Africa","eThekwini, Kwa-Zulu Natal, South Africa",multiple,164766 108107,12895,2180,131
+2020,"Eugene/Springfield, Oregon, USA","Eugene-Springfield, Oregon, USA",City Nature Challenge Eugene Springfield,132215,2824,786,144
+2021,"Eugene/Springfield, Oregon, USA","Eugene-Springfield, Oregon, USA",City Nature Challenge Eugene Springfield,132215,2324,672,189
+2022,"Eugene/Springfield, Oregon, USA","Eugene-Springfield, Oregon, USA",City Nature Challenge Eugene Springfield,132215,3561,732,282
+2019,"Eugene-Springfield, OR, USA","Eugene-Springfield, Oregon, USA",City Nature Challenge Eugene Springfield,132215,2841,719,114
+2021,"Fairfield and Westchester Counties, Connecticut/New York, USA","Fairfield and Westchester County, Connecticut and New York, USA",multiple,1871 333,2707,718,365
+2022,"Fairfield and Westchester County, Connecticut and New York, USA","Fairfield and Westchester County, Connecticut and New York, USA",Westchester-NY-Fairfield-CT,155256,2664,699,333
+2020,"Fairfield County, Connecticut, USA","Fairfield and Westchester County, Connecticut and New York, USA",multiple,1871 333,3156,808,364
+2019,"Fort Collins, CO, USA","Northern Colorado, Colorado, USA",Fort Collins and Larimer County CNC Boundary,132270,1996,512,157
+2020,"Northern Colorado, Colorado, USA","Northern Colorado, Colorado, USA",multiple,1808 1797,922,381,122
+2022,"Fort Collins, Colorado, USA","Northern Colorado, Colorado, USA",multiple,1808 1797,641,276,96
+2021,"Fort Wayne Area, Indiana, USA","Fort Wayne, Indiana, USA",multiple,2094 1108 107077 1421 1126 1012 2252,1504,455,132
+2020,"Fort Wayne, Indiana, USA","Fort Wayne, Indiana, USA",multiple,2094 1108 107077 1421 1126 1012 2252,1963,500,117
+2022,"Fort Wayne, Indiana, USA","Fort Wayne, Indiana, USA",multiple,2094 1108 107077 1421 1126 1012 2252,1135,378,135
+2022,"GAM, San JosÃ©, Costa Rica","GAM, San José, Costa Rica","Gran Area Metropolitana, CR",145615,2800,926,137
+2021,"Gran Ãrea Metropolitana (GAM), Gran Area Metropolitana, Costa Rica","GAM, San José, Costa Rica","Gran Area Metropolitana, CR",145615,2655,948,104
+2020,"Gran Ãrea Metropolitana, San JosÃ©-GAM, Costa Rica","GAM, San José, Costa Rica","Gran Area Metropolitana, CR",145615,2097,687,178
+2021,"Garden Route District, Western Cape, South Africa","Garden Route, Western Cape, South Africa","Garden Route District Municipality incl 2 nautical mile, ZA",146648,19977,3073,244
+2020,"Garden Route, Western Cape, South Africa","Garden Route, Western Cape, South Africa","Garden Route District Municipality incl 2 nautical mile, ZA",146648,17743,2734,315
+2022,"Garden Route, Western Cape, South Africa","Garden Route, Western Cape, South Africa","Garden Route District Municipality incl 2 nautical mile, ZA",146648,16151,2757,273
+2020,"Geelong, Victoria, Australia","Geelong, Victoria, Australia",multiple,144918 14643 155518 14701 14702 14729,5949,1384,135
+2021,"Geelong, Victoria, Australia","Geelong, Victoria, Australia",multiple,144918 155518 14701 14702 14703 14729,3336,1079,74
+2022,"Geelong, Victoria, Australia","Geelong, Victoria, Australia",multiple,144918 14643 155518 14701 14702 14703 14729,2652,954,86
+2019,"Glasgow, Scotland","Glasgow, Scotland",multiple,30466 125598,134,91,8
+2020,"Glasgow, Glasgow, UK","Glasgow, Scotland",multiple,30460 30462 30466 30467 30471 30474 30478 30480,2086,589,106
+2021,"Glasgow (Greater Glasgow), Scotland central belt, Scotland UK","Glasgow, Scotland",multiple,30459 30460 30462 30466 30467 30470 30471 30474 30477 30478 30480,1307,378,72
+2022,"Glasgow, Scotland","Glasgow, Scotland",multiple,30459 30460 30462 30466 30467 30470 30471 30474 30477 30478 30480,1863,553,94
+2021,"Graz, Steiermark, Austria","Graz, Styria, Austria",multiple,14939 14938,17163,2493,223
+2020,"Graz, Styria, Austria","Graz, Styria, Austria",multiple,14939 14938,4398,1350,95
+2022,"Graz, Styria, Austria","Graz, Styria, Austria",multiple,14939 14938 14935,16844,2774,191
+2022,"Greater Burlington, Vermont , USA","Burlington/Winooski, Vermont, USA",multiple,50939 55621 53843 55623,3248,690,250
+2018,"Greater Concord , Cabarrus County, NC- United States of America","Cabarrus County, North Carolina, USA","Cabarrus County, US, NC",2178,6956,1100,217
+2021,"Piedmont (Greensboro), North Carolina, USA","Greensboro, North Carolina, USA",multiple,1398 2041 921 2667 1270 1901 2723 2958 1427 2957 2400 2401 2727,2457,980,260
+2022,"Greensboro, North Carolina, USA","Greensboro, North Carolina, USA",multiple,1398 2041 2667 1270 1901 2723 2958 1427 2400 2401 2727,1874,710,291
+2022,"Guatemala, Guatemala","Guatemala, Guatemala","Guatemala, GT",6941,2962,930,280
+2020,"GuimarÃ£es, Braga, Portugal","Guimarães, Portugal","Guimarães, PT",125290,181,144,55
+2021,"GuimarÃ£es, Braga, Portugal","Guimarães, Portugal","Guimarães, PT",125290,600,402,120
+2022,"GuimarÃ£es, Braga, Portugal","Guimarães, Portugal","Guimarães, PT",125290,445,200,160
+2018,"GuimarÃ£es, Norte, Portugal","Guimarães, Portugal","Guimarães, PT",125290,238,112,105
+2020,"Halifax Regional Municipality (HRM), Nova Scotia, Canada","Halifax Regional Municipality, Nova Scotia, Canada","Halifax, CA, NS",27573,4318,766,185
+2021,"Halifax Regional Municipality, Nova Scotia, Canada","Halifax Regional Municipality, Nova Scotia, Canada","Halifax, CA, NS",27573,5753,932,220
+2022,"Halifax Regional Municipality, Nova Scotia, Canada","Halifax Regional Municipality, Nova Scotia, Canada","Halifax, CA, NS",27573,5909,888,181
+2019,"Halifax, NS, Canada","Halifax Regional Municipality, Nova Scotia, Canada","Halifax, CA, NS",27573,7647,912,237
+2021,"Hamilton (The Hammer), Ontario, Canada","Hamilton, Ontario, Canada","Hamilton, CA, ON",27590,3269,764,160
+2022,"Hamilton, Ontario, Canada","Hamilton, Ontario, Canada","Hamilton, CA, ON",27590,"2,102",646,96
+2021,"Hampton Roads, Virginia, USA","Hampton Roads, Virginia, USA",multiple,13513 13515 13457 13516 13517 13519 13489,1303,559,170
+2022,"Hampton Roads, Virginia, USA","Hampton Roads, Virginia, USA",multiple,13513 13515 2591 2927 13457 13516 13488 13517 13519 13489 13395 2931,2618,841,351
+2021,"Heart of Texas (Waco), Texas, USA","Heart of Texas, Texas, USA",multiple,1878 1707 1146 808 272 771 903 885 1215,4216,1227,156
+2022,"Waco, Temple, Belton, Killeen, Gatesville, Hamilton, Texas, USA","Heart of Texas, Texas, USA",multiple,1878 1707 1146 808 272 771 903 885 1215,5013,1551,177
+2022,"Hollywood, Florida, USA","Hollywood, Florida, USA",multiple,1798 82621,2593,876,101
+2020,"Honduras, Honduras",Honduras,Honduras,6929,2214,869,189
+2021,"Honduras, Honduras",Honduras,Honduras,6929,3656,1278,105
+2018,"Hong Kong SAR, China",Hong Kong,Hong Kong,7613,20268,2932,755
+2019,"Hong Kong SAR, China",Hong Kong,multiple,7613 136321,31144,3596,1128
+2020,"Hong Kong SAR, Hong Kong SAR, China",Hong Kong,multiple,7613 136321,17137,3007,460
+2021,"Hong Kong SAR, Hong Kong SAR, China",Hong Kong,multiple,7613 136321,29781,4179,1081
+2022,"Hong Kong SAR, Hong Kong SAR, China",Hong Kong,multiple,7613 136321,33118,4355,723
+2020,"Oahu, Hawaii, USA","Oahu, Hawaii, USA","Oahu, HI, US",6693,447,217,40
+2021,"Oahu (Honolulu), Hawaii, USA","Oahu, Hawaii, USA","Oahu, HI, US",6693,906,467,87
+2022,"Honolulu, Hawaii, USA","Oahu, Hawaii, USA","Oahu, HI, US",6693,1318,552,125
+2018,"Houston Area, TX, United States of America","Houston-Galveston, Texas, USA","Greater Houston Area, US, TX",110679,22490,3088,699
+2019,"Houston, TX, USA","Houston-Galveston, Texas, USA","Greater Houston Area, US, TX",110679,24534,3367,898
+2020,"Houston-Galveston, Texas, USA","Houston-Galveston, Texas, USA","Greater Houston Area, US, TX",110679,27624,3359,1265
+2021,"Houston-Galveston, Texas, USA","Houston-Galveston, Texas, USA","Greater Houston Area, US, TX",110679,33452,3707,1190
+2022,"Houston, Galveston, Texas, USA","Houston-Galveston, Texas, USA",multiple,110679 174947,31676,3431,1567
+2020,"Taoyuan-Hsinchu, Hsinchu, Taiwan","Hsinchu, Taiwan",multiple,141644 141643 130256,7908,1690,241
+2021,"Hsinchu, Taiwan, Taiwan","Hsinchu, Taiwan",multiple,141644 141643,3491,1081,92
+2022,"Hsinchu, Taiwan, Taiwan","Hsinchu, Taiwan",multiple,141644 141643,7616,1778,141
+2018,"Indianapolis, IN, United States of America","Indianapolis, Indiana, USA","Greater Indianapolis, IN, US",123855,3707,630,237
+2019,"Indianapolis, IN, USA","Indianapolis, Indiana, USA","Greater Indianapolis, IN, US",2676 282 123855 390 2143 388 149 840 1672 2144 1673,2882,643,168
+2020,"Indianapolis, Indiana, USA","Indianapolis, Indiana, USA","Greater Indianapolis, IN, US",2676 282 123855 390 2143 388 149 840 1426 1672 2144 1673,4541,948,344
+2021,"Indianapolis, Indiana, USA","Indianapolis, Indiana, USA","Greater Indianapolis, IN, US",2676 282 390 2143 388 149 840 1426 1672 2144 1673,4360,945,268
+2022,"Indianapolis, Indiana, USA","Indianapolis, Indiana, USA","Greater Indianapolis, IN, US",2676 282 390 2143 388 149 840 1426 1672 2144 1673,5080,954,258
+2020,"Inland Empire, California, USA","Inland Empire, California, USA",multiple,917 520,10899,1835,485
+2021,"Inland Empire, California, USA","Inland Empire, California, USA",multiple,917 520,10741,1771,480
+2022,"San Bernardino, California, USA","Inland Empire, California, USA",multiple,917 520,6961,1692,512
+2021,"Ithaca, New York, USA","Ithaca, New York, USA",East Finger Lakes,155934,3134,811,174
+2022,"Ithaca, New York, USA","Ithaca, New York, USA",multiple,155934 119486,1596,563,172
+2020,"Greater Kansas City Metro Area, Missouri and Kansas, USA","Kansas City, Missouri, USA",multiple,1895 1352 2756 2363 2752 2763 2555 1245 1866,677,348,123
+2021,"Kansas City (Greater Kansas City Metro Area), Missouri, USA","Kansas City, Missouri, USA",multiple,1895 1352 2756 2363 2752 2763 2555 1245 1866,1123,455,196
+2022,"Kansas City, Missouri, USA","Kansas City, Missouri, USA",multiple,1895 1352 2756 2363 2752 2763 2555 1245 1866,1919,643,229
+2020,"Kaohsiung, Kaohsiung, Taiwan","Kaohsiung, Taiwan","高雄市, TW",141647,1023,474,68
+2021,"Kaohsiung, Taiwan, Taiwan","Kaohsiung, Taiwan","Kaohsiung, TW",12313,537,322,85
+2022,"Kaohsiung, Taiwan, Taiwan","Kaohsiung, Taiwan","Kaohsiung, TW",12313,2438,866,131
+2022,"Kelowna, Vernon, British Columbia, Canada","Okanagan Valley, British Columbia, Canada",multiple,27525 27533 27535,2515,597,121
+2021,"Kiel Region, Schleswig-Holstein, Germany","Kiel, Schleswig-Holstein, Germany",multiple,98634 98640 98641,5357,891,196
+2022,"Kiel, Schleswig-Holstein, Germany","Kiel, Schleswig-Holstein, Germany",multiple,98634 98640 98641,4997,1023,150
+2018,"Klang Valley/Greater Kuala Lumpur, Selangor, Malaysia","Klang Valley (Kuala Lumpur), Malaysia",Klang Valley (2018),124354,25287,1775,682
+2019,"Klang Valley, Malaysia","Klang Valley (Kuala Lumpur), Malaysia","Klang Valley (2019), MY",137749,37916,3020,518
+2021,"Klang Valley (Kuala Lumpur), Kuala Lumpur, Malaysia","Klang Valley (Kuala Lumpur), Malaysia","Klang Valley (2019), MY",137749,9397,1373,448
+2022,"Kuala Lumpur, Kuala Lumpur, Malaysia","Klang Valley (Kuala Lumpur), Malaysia","Klang Valley (2019), MY",137749,2038,698,85
+2021,"Knox Area (Knoxville), Tennessee, USA","Knox Area (Knoxville), Tennessee, USA",multiple,1699 877 1369 1701 2049 1661 1780 268 1170 430 310 1066 2422 1587,2130,753,288
+2022,"Knoxville, Tennessee, USA","Knox Area (Knoxville), Tennessee, USA",multiple,1699 877 1369 1701 2049 1661 1780 268 1170 430 310 1066 2422 1587,3233,917,352
+2022,"La Cruz de Elota, Sinaloa, MÃ©xico","Elota, Sinaloa, México","Elota, SI, MX",37684,5763,1023,224
+2019,"La Paz, Bolivia","La Paz, Bolivia","La Paz , LP, BO",131419,46931,3005,1500
+2020,"La Paz/El Alto, La Paz, Bolivia","La Paz, Bolivia","La Paz , LP, BO",131419,3354,635,139
+2021,"La Paz/El Alto, La Paz, Bolivia","La Paz, Bolivia","La Paz , LP, BO",131419,476,188,17
+2022,"La Paz, La Paz, Bolivia","La Paz, Bolivia","La Paz , LP, BO",131419,137345,5320,4296
+2020,"Lancashire, North West, UK","Lancashire, UK",Lancashire Environment Record Network,138194,5331,1044,143
+2021,"Lancashire, UK","Lancashire, UK",Lancashire Environment Record Network,138194,2983,908,110
+2022,"Lancashire, Lancashire, UK","Lancashire, UK",Lancashire Environment Record Network,138194,3845,979,115
+2022,"Lexington - Fayette County, Kentucky, USA","Lexington, Kentucky, USA","Fayette County, US, KY",1958,2601,845,145
+2021,"Lexington, Kentucky, USA","Lexington, Kentucky, USA","Fayette County, US, KY",1958,2607,764,164
+2019,"Lima, Peru","Lima, Perú",multiple,97128 9856,1160,290,57
+2021,"Lima, Lima, PerÃº","Lima, Perú",multiple,97128 9856,2959,586,165
+2022,"Liverpool City Region, England, UK","Liverpool City Region, UK","Liverpool City Region LWM, England, GB",178059,7747,1106,120
+2021,"Liverpool City Region, Merseyside, UK","Liverpool City Region, UK","Liverpool City Region, GB",130732,8900,940,111
+2020,"Liverpool City Region, North-west, UK","Liverpool City Region, UK","Liverpool City Region, GB",130732,5938,991,169
+2019,"Liverpool City Region, UK","Liverpool City Region, UK","Liverpool City Region, GB",130732,12326,1075,121
+2022,"London, Greater London, UK","London, UK",Greater London,66357,4436,1087,337
+2018,"London, Greater London, United Kingdom","London, UK",Greater London,66357,2621,737,106
+2020,"London, London, UK","London, UK",Greater London,66357,5731,1069,537
+2021,"London, London, UK","London, UK",Greater London,66357,4721,963,323
+2019,"London, UK","London, UK",Greater London,66357,5464,1110,270
+2018,"Los Angeles County, CA, United States of America","Los Angeles County, California, USA","Los Angeles County, US, CA",962,19423,2356,855
+2019,"Los Angeles County, CA, USA","Los Angeles County, California, USA","Los Angeles County, US, CA",962,34125,3249,1555
+2020,"Los Angeles County, California, USA","Los Angeles County, California, USA","Los Angeles County, US, CA",962,19134,2494,1568
+2021,"Los Angeles County, California, USA","Los Angeles County, California, USA","Los Angeles County, US, CA",962,22037,2638,1507
+2022,"Los Angeles County, California, USA","Los Angeles County, California, USA","Los Angeles County, US, CA",962,18907,2575,1368
+2022,"Louisville Metro, Kentucky, USA","Louisville Metro, Kentucky, USA","Jefferson County, US, KY",757,2338,691,137
+2018,"Lower Rio Grande Valley, TX, United States of America","Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, US, TX",94019,8755,1660,194
+2019,"Lower Rio Grande Valley, TX, USA","Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, US, TX",94019,8773,1870,127
+2020,"Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, US, TX",94019,7499,1673,150
+2021,"Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, US, TX",94019,7914,1717,144
+2022,"Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, Texas, USA","Lower Rio Grande Valley, US, TX",94019,10948,2152,187
+2019,"Luxembourg, Luxembourg","Luxembourg, Luxembourg","Luxembourg, LU, LU",127415,8220,1083,417
+2020,"Luxembourg, Luxembourg, Luxembourg","Luxembourg, Luxembourg",multiple,145183 120582,5860,1077,423
+2021,"Luxembourg, Luxembourg, Luxembourg","Luxembourg, Luxembourg","Grand-Duché de Luxembourg, LU",120582,5341,888,268
+2022,"Luxembourg, Luxembourg","Luxembourg, Luxembourg","Grand-Duché de Luxembourg, LU",120582,7638,1340,401
+2022,"Madison Metro Area, Wisconsin, USA","Madison Metro Area, Wisconsin, USA",multiple,496 1543 1911 3037 1159,2004,483,206
+2018,"Madrid Metropolitan Area, Madrid, Spain","Madrid, Spain","Madrid, Área Metropolitana aproximada",151474,6805,778,144
+2019,"Madrid, Spain","Madrid, Spain","Madrid, Área Metropolitana aproximada",151474,4872,883,85
+2020,"Madrid, Madrid, Spain","Madrid, Spain","Madrid, Área Metropolitana aproximada",151474,488,19,11
+2022,"Madrid, Madrid, Spain","Madrid, Spain","Madrid, Área Metropolitana aproximada",151474,404,175,9
+2020,"Managua, Managua, Nicaragua","Managua, Nicaragua","Managua, NI",11452,901,430,42
+2021,"Managua, Managua, Nicaragua",Nicaragua,Nicaragua,6925,2772,808,114
+2019,"Greater Manchester, UK","Greater Manchester, UK",Greater Manchester Local Records Area,138285,5096,806,135
+2020,"Greater Manchester, North West, UK","Greater Manchester, UK",Greater Manchester Local Records Area,138285,4740,832,221
+2021,"Manchester (Greater Manchester), Greater Manchester, UK","Greater Manchester, UK",Greater Manchester Local Records Area,138285,1844,526,86
+2022,"Manchester, Greater Manchester, UK","Greater Manchester, UK",Greater Manchester Local Records Area,138285,2250,523,111
+2019,"MazatlÂ n, Mexico","Mazatlán, Sinaloa, México","Mazatlán, MX, SI",37688,27684,2500,511
+2021,"MazatlÃ¡n, Sinaloa, MÃ©xico","Mazatlán, Sinaloa, México","Mazatlán, MX, SI",37688,15175,1491,99
+2022,"MazatlÃ¡n, Sinaloa, MÃ©xico","Mazatlán, Sinaloa, México","Mazatlán, MX, SI",37688,22490,2039,348
+2019,"MedellÂ¡n, Colombia","Medellín, Colombia","Medellín, AN, CO",131486,14178,2480,451
+2022,"Greater Melbourne, Victoria, Australia","Melbourne, Victoria, Australia",multiple,14595 14596 14600 14601 164152 14609 14610 14617 14618 14619 152675 175364 176914 158634 175427 176979 176978 14630 14629 14658 14659 14661 14662 14663 163976 14681 14682 14683 163733 14689 14690 14693 14696 14697 14698 14699 14700 14704 14705 14706 175366 14722 14723 14724 117950 175974 14736 14737 59131 14753 14754 14755 14757 14758 14759 14760 14761,12599,2035,603
+2021,"Melbourne Eastern Metropolitan Area, Victoria, Australia","Melbourne, Victoria, Australia",multiple,164152 158634 163976 14681 14682 163733 14696 14697 14698 14736 14737 59131,7629,1106,323
+2022,"Memphis, Tennessee, Mississippi, Arkansas, USA","Memphis, Tennessee, Mississippi, Arkansas, USA",multiple,434 107092 478 525 933 758 501 2932 ,1823,710,113
+2020,"Mendocino County, California, USA","Mendocino County, California, USA","Mendocino County, CA, US",436,1407,624,106
+2021,"Mendocino County, California, USA","Mendocino County, California, USA","Mendocino County, CA, US",436,1859,708,137
+2021,"Valle de AburrÃ¡/MedellÃ­n, Antioquia, Colombia","Valle de Aburrá, Antioquia, Colombia",Área Metropolitana del Valle de Aburrá,144768,6574,1508,158
+2022,"Metropolitan Area of the AburrÃ¡ Valley, Antioquia, Colombia","Valle de Aburrá, Antioquia, Colombia",Área Metropolitana del Valle de Aburrá,144768,10218,1842,229
+2019,"Miami & Upper Keys, FL, USA","Miami, Florida, USA",multiple,2345 136355,12127,1966,536
+2018,"Miami, FL, United States of America","Miami, Florida, USA","Miami-Dade County, US, FL",2345,3758,913,199
+2021,"Milazzo, Messina, Italy","Milazzo, Messina, Italy","Milazzo, ME, Italia, IT",165374,3387,814,88
+2022,"Milazzo, Sicily, Italy","Milazzo, Messina, Italy","Milazzo, ME, Italia, IT",165374,10180,1502,242
+2022,"Milwaukee, Wisconsin, USA","Milwaukee, Wisconsin, USA",multiple,1547 1238 546 1294 935 409 2700,1630,491,113
+2018,"Minneapolis/St. Paul, MN, United States of America","Minneapolis-St. Paul, Minnesota, USA",Minneapolis/St. Paul Metropolitan Area,119106,3376,491,336
+2019,"Minneapolis/St. Paul, MN, USA","Minneapolis-St. Paul, Minnesota, USA",Minneapolis/St. Paul Metropolitan Area,119106,5672,703,439
+2020,"Minneapolis-St. Paul, Minnesota, USA","Minneapolis-St. Paul, Minnesota, USA",multiple,13522 113426 13449 13394 13470 13421 13467 13441 13475 13521 13497,5550,815,583
+2021,"Minneapolis-St. Paul, Minnesota, USA","Minneapolis-St. Paul, Minnesota, USA",multiple,13522 113426 13449 13394 13470 13421 2848 13467 13441 13475 1157 13521 13497,6621,969,643
+2022,"Minneapolis-St. Paul, Minnesota, USA","Minneapolis-St. Paul, Minnesota, USA",multiple,13522 113426 13449 13394 13470 13421 2848 13467 13441 13475 1157 13521 13497,5065,779,400
+2018,"Monterrey , Zona Metropolitana, Nuevo LeÃ³n- Mexico","Monterrey, México","Monterrey Zona Metropolitana, NL, MX",113429,8447,1463,128
+2019,"Monterrey, Mexico","Monterrey, México","Monterrey Zona Metropolitana, NL, MX",113429,15529,2129,332
+2020,"Monterrey zona metropolitana, Nuevo Leon, México","Monterrey, México","Monterrey Zona Metropolitana, NL, MX",113429,1663,646,70
+2022,"Monterrey, Nuevo LeÃ³n, MÃ©xico","Monterrey, México",multiple,37300 37302 37304 129483 37311 101471 37316 101476 101470 37323 37324 37327 37333 37336 37338 37340 37343 37344 37345 37346 37347,21865,2676,1008
+2021,"Monterrey, Zona Metropolitana, Nuevo LeÃ³n, MÃ©xico","Monterrey, México","Monterrey Zona Metropolitana, NL, MX",113429,8932,1447,406
+2020,"MontrÃ©al, QuÃ©bec, Canada","Montréal, Québec, Canada","Greater Montreal Area, QC, CA",147597,640,241,96
+2021,,"Montréal, Québec, Canada","Greater Montreal Area, QC, CA",147597,,,
+2022,"MontrÃ©al, QuÃ©bec, Canada","Montréal, Québec, Canada","Greater Montreal Area, QC, CA",147597,18011,1162,749
+2021,"Moscow, City of Moscow, Russia","Moscow, Russia","Gorod Moskva, RU, RU",133611,11070,835,183
+2020,"Moscow, Moscow, Russia","Moscow, Russia","Gorod Moskva, RU, RU",133611,5969,637,63
+2022,"Moscow, Moscow, Russia","Moscow, Russia","Gorod Moskva, RU, RU",133611,10604,777,264
+2022,"Nanaimo, British Columbia, Canada","Nanaimo, British Columbia, Canada","Nanaimo, CA, BC",27532,3253,920,112
+2018,"Nashville, TN, United States of America","Nashville, Tennessee, USA",Greater Nashville,121396,1661,558,137
+2019,"Nashville, TN, USA","Nashville, Tennessee, USA",Greater Nashville,121396,2292,715,168
+2020,"Nashville, Tennessee, USA","Nashville, Tennessee, USA",multiple,2046 2694 1002 1908 2055 2729 271,2611,805,245
+2021,"Nashville, Tennessee, USA","Nashville, Tennessee, USA",multiple,2046 2694 1002 1908 2055 2729 271,1541,631,259
+2022,"Nashville, Tennessee, USA","Nashville, Tennessee, USA",multiple,2046 2694 1002 1908 2055 2729 271,2243,840,232
+2020,"Southeastern Coastal NC, North Carolina, USA","North Carolina Coastal Plain, North Carolina, USA",multiple,395 1174 1112 490 1401 1269 1191 2772 660 1113 2446 878 1176 1115 506 2078 2953 2180 2955 455 1193 2669 578 601 513 577 1403 1118 215 580 2464 244,4823,1358,324
+2021,"NC Coastal Plain (Whiteville), North Carolina, USA","North Carolina Coastal Plain, North Carolina, USA",multiple,395 1174 1112 490 1401 1269 1191 2772 660 1113 2446 878 1176 1115 506 2078 2953 2180 2955 455 1193 2669 578 601 513 577 1403 1118 215 580 2464 244,2359,918,256
+2019,"New Orleans, LA, USA","New Orleans, Louisiana, USA",New Orleans 2019 City Nature Challenge,131447,749,402,87
+2020,"New Orleans, Louisiana, USA","New Orleans, Louisiana, USA",New Orleans 2019 City Nature Challenge,131447,565,355,144
+2021,"New Orleans, Louisiana, USA","New Orleans, Louisiana, USA",New Orleans 2019 City Nature Challenge,131447,1417,611,134
+2022,,"New Orleans, Louisiana, USA",multiple,2126 2109 966 107079 107084,,,
+2018,"New York City, NY, United States of America","New York City, New York, USA","New York City, US, NY",674,22003,1427,507
+2019,"New York, NY, USA","New York City, New York, USA","New York City, US, NY",674,25803,1637,466
+2020,"New York City, New York, USA","New York City, New York, USA","New York City, US, NY",674,7545,967,364
+2021,"New York City, New York, USA","New York City, New York, USA","New York City, US, NY",674,19260,1585,845
+2022,"New York City, New York, USA","New York City, New York, USA","New York City, US, NY",674,16295,1724,838
+2019,"Newcastle Upon Tyne, UK","North East England, UK",City Nature Challenge 2019: North East England,131090,3041,670,132
+2020,"North East England, North East England, UK","North East England, UK",City Nature Challenge 2019: North East England,131090,5281,817,177
+2021,"North East England, North East England, UK","North East England, UK",City Nature Challenge 2019: North East England,131090,2165,646,89
+2022,"North East England, North East England, UK","North East England, UK",City Nature Challenge 2019: North East England,131090,4038,1043,165
+2020,"North Taiwan, Taipei, Taiwan","North Taiwan, Taiwan",multiple,141638 141635 141634 141645,11941,2004,426
+2021,"North Taiwan (Taipei, New Taipei, Keelung, Taoyuan), North Taiwan, Taiwan","North Taiwan, Taiwan",multiple,141638 141635 141634 141645,21581,2944,604
+2022,"North Taiwan, Taiwan, Taiwan","North Taiwan, Taiwan",multiple,141638 141635 141634 141645,8063,1679,393
+2020,"Johnson City/Washington County, Tennessee, USA","Northeast Tennessee, Tennessee, USA","Washington County, US, TN",1519,1192,462,34
+2021,"Northeast Tennessee (Johnson City), Tennessee, USA","Northeast Tennessee, Tennessee, USA",multiple,306 2047 2629 3022 2585 1702 793 2312 2980 1519,3481,985,149
+2022,"Northeast Tennessee, Tennessee, USA","Northeast Tennessee, Tennessee, USA",multiple,306 2047 2629 3022 2585 1702 793 2312 2980 1519,3307,984,148
+2020,"Nottingham City, Midlands, UK","Nottingham, Nottinghamshire, UK","Nottingham City, England, GB",144218,2707,673,104
+2021,"Nottingham, Nottinghamshire, UK","Nottingham, Nottinghamshire, UK","Nottingham City, England, GB",144218,2828,744,59
+2022,"Nottingham, Nottinghamshire, UK","Nottingham, Nottinghamshire, UK","Nottingham City, England, GB",144218,2943,792,65
+2018,"Omaha Metro, NE, United States of America","Omaha Metro Area, Nebraska, USA","Omaha, NE Metro Area",123395,1931,384,188
+2019,"Omaha, NE, USA","Omaha Metro Area, Nebraska, USA","Omaha, NE Metro Area",123395,1895,532,139
+2020,"Omaha, Nebraska, USA","Omaha Metro Area, Nebraska, USA","Omaha, NE Metro Area",123395,1880,549,185
+2021,"Omaha Metro Area, Nebraska, USA","Omaha Metro Area, Nebraska, USA","Omaha, NE Metro Area",123395,688,246,88
+2022,"Omaha Metro Area, Nebraska, USA","Omaha Metro Area, Nebraska, USA","Omaha, NE Metro Area",123395,850,328,71
+2021,"Orlando, Florida, USA","Orlando, Florida, USA","Orange County, US, FL",934,1462,615,181
+2022,"Orange County (Orlando), Florida, USA","Orlando, Florida, USA","Orange County, US, FL",934,3493,1042,247
+2020,"Ottawa-Gatineau (NCR), Ontario/QuÃ©bec, Canada","Ottawa-Gatineau, Ontario-Quebec, Canada",Canada's National Capital Region,146156,2894,687,203
+2021,"Ottawa-Gatineau, Ontario-Quebec, Canada","Ottawa-Gatineau, Ontario-Quebec, Canada",multiple,27669 27599 168161,5321,908,371
+2022,"Ottawa, Gatineau, Ontario, Canada","Ottawa-Gatineau, Ontario-Quebec, Canada",multiple,27669 27599 168161,4896,915,339
+2022,"Overstrand, Western Cape, South Africa","Overstrand, Western Cape, South Africa",multiple,175979 137973,19832,2308,258
+2021,"P?neke/Wellington City, Wellington City, New Zealand","Te Whanganui-a-Tara (Wellington City), New Zealand","Wellington City and Sea, WG, NZ",168272,7458,1531,135
+2022,"Te Whanganui-a-Tara/ Wellington, Wellington, New Zealand","Te Whanganui-a-Tara (Wellington City), New Zealand","Wellington City and Sea, WG, NZ",168272,7599,1639,125
+2022,"Palouse Region, Washington/Idaho, USA","Palouse Region, Washington and Idaho, USA",multiple,2817 749,1751,506,147
+2021,"Pamplona / IruÃ±a, Navarra, EspaÃ±a","Pamplona-Iruña, Navarra, Spain","Pamplona / Iruña Área Metropolitana, ES",148890,4261,656,173
+2022,"Pamplona / IruÃ±a, Navarra, Spain","Pamplona-Iruña, Navarra, Spain","Pamplona / Iruña Área Metropolitana, ES",148890,5252,1025,244
+2022,"Paris, Paris - ÃŽle de France, France","Paris, France","Île-de-France, FR",10577,5718,1401,306
+2020,"PerÃº, PerÃº",Perú,Peru,7513,1648,534,385
+2019,"Philadelphia, PA, USA","Philadelphia, Pennsylvania, USA",multiple,722 673 2825 1132 1134 1522 2983,13693,1584,565
+2020,"Greater Philadelphia Area, Pennsylvania, USA","Philadelphia, Pennsylvania, USA",multiple,181 722 673 2825 241 1148 214 1132 1134 1522 2983 2274,23675,2032,820
+2021,"Philadelphia (Greater Philadelphia Area), Pennsylvania, USA","Philadelphia, Pennsylvania, USA",multiple,722 673 2825 1132 1134 1522 2983,19637,2219,966
+2022,"Philadelphia, Pennsylvania, New Jersey, USA","Philadelphia, Pennsylvania, USA",multiple,722 673 2825 1132 1134 1522 2983,19030,2215,876
+2021,"Phoenix (Greater Phoenix Area), Arizona, USA","Greater Phoenix Area, Arizona, USA","Metro Phoenix, AZ, US",147790,9703,1041,283
+2022,"Metro Phoenix, Arizona, USA","Greater Phoenix Area, Arizona, USA","Metro Phoenix, AZ, US",147790,17785,1124,432
+2020,"Pioneer Valley, Massachusetts, USA","Pioneer Valley, Massachusetts, USA",multiple,128 2007 2012,1240,438,110
+2021,"Pioneer Valley, Massachusetts, USA","Pioneer Valley, Massachusetts, USA",multiple,128 2007 2012,1056,444,170
+2022,"Pioneer Valley, Massachusetts, USA","Pioneer Valley, Massachusetts, USA",multiple,128 2007 2012,1903,718,207
+2018,"Pittsburgh, PA, United States of America","Pittsburgh Region, Pennsylvania, USA","Southwest Pennsylvania Region, PA, US",125789,4386,929,164
+2019,"Pittsburgh, PA, USA","Pittsburgh Region, Pennsylvania, USA",multiple,913 2226 374 354 357 267,5198,965,259
+2020,"Pittsburgh Region, Pennsylvania, USA","Pittsburgh Region, Pennsylvania, USA",multiple,913 2226 374 354 357 267,8290,1414,487
+2021,"Pittsburgh Region, Pennsylvania, USA","Pittsburgh Region, Pennsylvania, USA",multiple,913 2226 374 354 357 267,7028,1206,439
+2022,"Pittsburgh Region, Pennsylvania, USA","Pittsburgh Region, Pennsylvania, USA",multiple,913 2226 374 354 357 267,5834,1124,380
+2022,"Greater Portland-Vancouver Metro Area, Oregon, USA","Greater Portland-Vancouver Metro Area, Oregon, USA",Portland-Vancouver Metro Region,81864,3512,829,511
+2021,"Portland-Vancouver Metro Area, Oregon, USA","Greater Portland-Vancouver Metro Area, Oregon, USA",Portland-Vancouver Metro Region,81864,6002,981,473
+2018,"Prague, Czech Republic","Prague, Czech Republic",Prague,123944,1616,438,61
+2019,"Prague, Czech Republic","Prague, Czech Republic",Prague,123944,7757,998,446
+2020,"Prague, Czech Republic","Prague, Czech Republic",Prague,123944,9955,1268,404
+2021,"Prague, Czech Republic","Prague, Czech Republic","Hl. m. Praha, CZ",154376,11629,1215,514
+2022,"Prague, Czech Republic, Czech Republic","Prague, Czech Republic","Hl. m. Praha, CZ",154376,12053,1473,451
+2022,"Providence, Rhode Island, USA","Providence, Rhode Island, USA",multiple,155672 155674 95196 155666 8 181032 ,782,355,164
+2019,"Quito, Ecuador","Quito, Pichincha, Ecuador","Pichincha, EC",10011,36401,666,1372
+2021,"Quito, Pichincha, Ecuador","Quito, Pichincha, Ecuador","Quito metro area, PI, EC",170998,8011,1330,285
+2022,"Quito, Pichincha, Ecuador","Quito, Pichincha, Ecuador","Pichincha, EC",10011,15329,1202,254
+2018,"Raleigh (Triangle Area), NC, United States of America","Triangle Area (Raleigh), North Carolina, USA","Triangle Area, NC, US",118770,9271,1641,311
+2019,"Raleigh, NC, USA","Triangle Area (Raleigh), North Carolina, USA","Triangle Area, NC, US",118770,14054,1958,449
+2020,"Triangle Area, North Carolina, USA","Triangle Area (Raleigh), North Carolina, USA",multiple,1398 2041 921 471 565 452 2723 1845 454 1000 1778 468 1117 1402 1427 1428 1844 2688 244 2961,18234,2419,984
+2021,"Triangle Area (Raleigh), North Carolina, USA","Triangle Area (Raleigh), North Carolina, USA",multiple,921 1114 471 944 565 452 2668 1845 2179 454 1000 1778 468 1117 1402 105 1428 1844 2688 2961,15375,2149,810
+2022,"Raleigh, North Carolina, USA","Triangle Area (Raleigh), North Carolina, USA",multiple,921 1114 471 944 565 452 2668 1845 2179 454 1000 1778 468 1117 1402 105 1428 1844 2688 2961,13364,2155,815
+2018,"Richmond, VA, United States of America","Richmond, Virginia, USA",multiple,124396 124969,1186,445,93
+2019,"Richmond, VA, USA","Richmond, Virginia, USA","Richmond, Petersburg, Charles City, Chesterfield, Hanover, Henrico, New Kent , US, Richmond, VA",124969,417,228,69
+2020,"Greater Richmond Region, Virginia, USA","Richmond, Virginia, USA",multiple,1660 1072 13512 2916 13455 1489 2920 2926 1723 13454 1663 2922 13420 1491 1725 108236 2929,1443,573,160
+2021,"Richmond (Greater Richmond Region), Virginia, USA","Richmond, Virginia, USA",multiple,1660 1072 13512 2916 13455 1489 2920 2926 1723 13454 1663 2922 13420 1491 1725 108236 2929,984,488,243
+2022,"Richmond, Virginia, USA","Richmond, Virginia, USA",multiple,1660 1072 13512 2916 13455 1489 2920 2926 1723 13454 618 1663 2922 13420 1491 2923 1725 108236 2929,3262,980,304
+2020,"Rock River Valley (Rockford), Illinois, USA","Rock River Valley (Rockford), Illinois, USA",multiple,1533 107074 818 338 2679,5577,757,144
+2021,"Rock River Valley (Rockford), Illinois, USA","Rock River Valley (Rockford), Illinois, USA",multiple,1533 107074 818 338 2679,6403,862,173
+2022,"Rockford, Illinois, USA","Rock River Valley (Rockford), Illinois, USA",multiple,1533 107074 818 338 2679,7369,856,208
+2018,"SÃ£o Paulo, Brazil","São Paulo, Brazil","São Paulo, SP, BR",25311,2521,462,156
+2019,"S?o Paulo, Brazil","São Paulo, Brazil","São Paulo, SP, BR",25311,324,137,24
+2020,"SÃ£o Paulo, Brazil","São Paulo, Brazil","São Paulo, SP, BR",25311,202,101,24
+2021,"São Paulo and Metropolitan Region, São Paulo State, Brazil","São Paulo, Brazil",multiple,24792 24812 24822 24848 24850 24868 165766 167081 24892 24900 24915 24916 24929 24935 24936 24961 25002 25005 25012 25031 25044 25068 25079 25092 25136 25188 25194 25236 25243 25254 25282 25284 25293 25294 25307 25311 25337 25382,956,374,77
+2022,"SÃ£o Paulo, SÃ£o Paulo, Brasil","São Paulo, Brazil",multiple,25311 24929,1993,704,107
+2019,"Sacramento Region, CA, USA","Sacramento Region, California, USA",multiple,775 1795 281 2283 2239 1922 1558 2282 3038,9798,1279,536
+2020,"Sacramento, California, USA","Sacramento Region, California, USA",multiple,775 1795 281 2283 2239 1922 1558 2282 3038,8703,1654,742
+2021,"Sacramento Region, California, USA","Sacramento Region, California, USA",multiple,775 1795 281 2283 2239 1922 1558 2282 3038,8341,1495,591
+2022,"Sacramento, California, USA","Sacramento Region, California, USA",multiple,775 1795 281 2283 2239 1922 1558 2282 3038,7067,1496,553
+2022,"Salzburg, Salzburg, Austria","Salzburg, Austria","Salzburg, AT",10467,12653,2272,186
+2018,"San Antonio Area, TX, United States of America","San Antonio, Texas, USA","Greater San Antonio Metro Area, US, TX",121345,3524,957,172
+2019,"San Antonio, TX, USA","San Antonio, Texas, USA","Greater San Antonio Metro Area, US, TX",121345,7818,1452,461
+2020,"San Antonio, Texas, USA","San Antonio, Texas, USA",multiple,121345 1710,12472,2032,703
+2021,"San Antonio, Texas, USA","San Antonio, Texas, USA",multiple,121345 1710,15117,2216,715
+2022,"San Antonio, Texas, USA","San Antonio, Texas, USA",multiple,1550 2725 121345 2430 1710,16785,2262,892
+2018,"San Diego County, CA, United States of America","San Diego, California, USA",multiple,54501 829,33448,2946,1211
+2019,"San Diego County, CA, USA","San Diego, California, USA",multiple,54501 829,38241,3019,1188
+2020,"San Diego County, California, USA","San Diego, California, USA","San Diego County, CA, US",829,17213,2409,920
+2021,"San Diego County, California, USA","San Diego, California, USA","San Diego County including Pelagic Waters, CA, US",54501,14952,2074,763
+2022,"San Diego, California, USA","San Diego, California, USA","San Diego County including Pelagic Waters, CA, US",54501,21009,2644,924
+2018,"San Francisco Bay Area, CA, United States of America","San Francisco Bay Area, California, USA","San Francisco Bay Area, CA, US",54321,41737,3211,1532
+2019,"San Francisco Bay Area, CA, USA","San Francisco Bay Area, California, USA","San Francisco Bay Area, CA, US",54321,38028,3183,1947
+2020,"San Francisco Bay Area, California, USA","San Francisco Bay Area, California, USA","San Francisco Bay Area, CA, US",54321,31450,2975,2496
+2021,"San Francisco Bay Area, California, USA","San Francisco Bay Area, California, USA","San Francisco Bay Area, CA, US",54321,32181,2885,2265
+2022,"San Francisco Bay Area, California, USA","San Francisco Bay Area, California, USA","San Francisco Bay Area, CA, US",54321,31227,3008,2085
+2020,"Santa Cruz de la Sierra, Santa Cruz, Bolivia","Santa Cruz de la Sierra, Santa Cruz, Bolivia","Santa Cruz de la Sierra ""Cunumi Naturalista"", SC, BO",148195,7173,1347,336
+2019,"Santiago, Brazil","Santiago, Chile","Región Metropolitana de Santiago, CL",12691,2414,474,181
+2022,"Sarasota & Manatee County, Florida, USA","Sarasota & Manatee County, Florida, USA",multiple,941 2034,5931,1494,151
+2021,"Sarasota and Manatee Counties, Florida, USA","Sarasota & Manatee County, Florida, USA",multiple,941 2034,4332,1174,152
+2022,"Saskatoon and Area, Saskatchewan, Canada","Saskatoon, Saskatchewan, Canada",multiple,178077 177596,2537,501,113
+2020,"Savannah, Georgia, USA","Savannah, Georgia, USA",multiple,2516 2519 599 95171 1061 2025 119593 138835 119659,166,115,46
+2022,"Savannah, Georgia, USA","Savannah, Georgia, USA",multiple,2516 2519 599 95171 1061 2025 119593 121269 138835 162512 119659 119670,1678,549,106
+2018,"Seattle Metropolitan Area, WA, United States of America","Seattle-Tacoma Metropolitan Area, Washington, USA",Seattle-Tacoma Metropolitan Area,122789,5841,1033,358
+2019,"Seattle-Tacoma Metropolitan Area, WA, USA","Seattle-Tacoma Metropolitan Area, Washington, USA",Seattle-Tacoma Metropolitan Area,122789,2946,853,235
+2020,"Seattle-Tacoma Metropolitan Area, Washington, USA","Seattle-Tacoma Metropolitan Area, Washington, USA",Seattle-Tacoma Metropolitan Area,122789,5190,1044,565
+2021,"Seattle-Tacoma Metropolitan Area, Washington, USA","Seattle-Tacoma Metropolitan Area, Washington, USA",Seattle-Tacoma Metropolitan Area,122789,7067,1226,566
+2022,"Seattle-Tacoma, Washington, USA","Seattle-Tacoma Metropolitan Area, Washington, USA",Seattle-Tacoma Metropolitan Area,122789,7705,1280,654
+2020,"South Florida, Florida, USA","Miami, Florida, USA",multiple,1798 2345 1828,8430,1743,441
+2021,"South Florida, Florida, USA","Miami, Florida, USA",multiple,1798 2345 1828 112403,10320,1974,581
+2022,"South Florida, Florida, USA","Miami, Florida, USA",multiple,1798 2345 1828 112403,11320,2116,591
+2022,"Southcentral PA Region, Pennsylvania, USA","Southcentral PA Region, Pennsylvania, USA",multiple,1053 112 1131 2229 2181 1364 2610 1412 2249,1098,515,118
+2021,"St. Johns County (St. Augustine), Florida, USA","St. Augustine, Florida, USA","St. Johns County, FL, US",107072,1181,419,126
+2022,"St. Augustine, Florida, USA","St. Augustine, Florida, USA","St. Johns County, FL, US",107072,524,220,94
+2018,"St. Louis City & MSA Region, MO, United States of America","St. Louis, Missouri, USA","St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area",124535,10482,1100,642
+2019,"St. Louis Metro Area, MO, USA","St. Louis, Missouri, USA","St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area",124535,13758,1606,779
+2020,"St. Louis, Missouri and Illnois, USA","St. Louis, Missouri, USA","St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area",124535,7011,1259,646
+2021,"St. Louis & St. Charles, Missouri, USA","St. Louis, Missouri, USA","St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area",124535,6075,1150,574
+2022,"St. Louis, Missouri, USA","St. Louis, Missouri, USA","St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area",124535,6699,1250,459
+2020,"Sydney (Greater Sydney Area), New South Wales , Australia","Sydney, New South Wales, Australia","Greater Sydney Area, NSW AU",142327,3829,1245,164
+2021,"Sydney, New South Wales, Australia","Sydney, New South Wales, Australia","Greater Sydney Area, NSW AU",142327,3079,1284,133
+2022,"Greater Sydney, New South Wales, Australia","Sydney, New South Wales, Australia","Greater Sydney Area, NSW AU",142327,2911,1333,183
+2021,"T?maki Makaurau/Auckland, Auckland, New Zealand","Tāmaki Makaurau (Auckland), New Zealand","Auckland Ecological Region, NZ",83350,1797,695,216
+2022,"T?maki Makaurau/Auckland, Auckland, New Zealand","Tāmaki Makaurau (Auckland), New Zealand","Auckland Ecological Region, NZ",83350,1118,555,160
+2020,"Tainan City, Tainan, Taiwan","Tainan, Taiwan","台南市, TW",141637,2072,677,116
+2021,"Tainan, Taiwan, Taiwan","Tainan, Taiwan","台南市, TW",141637,1395,598,109
+2022,"Tainan, Taiwan, Taiwan","Tainan, Taiwan","台南市, TW",141637,806,410,71
+2019,"Tena, Ecuador","Tena, Ecuador","Tena, casco urbano",132078,37965,2653,1185
+2022,"Thailand, Thailand, Thailand",Thailand,multiple,9845 45913 45315 45415 45802 12053 12056 12057 12078 12081 12091,7756,2109,284
+2018,"The Wasatch Front (Salt Lake City), UT, United States of America","The Wasatch, Utah, USA",multiple,1232 1803 2739 1234 1221,3621,643,197
+2019,"Salt Lake City, UT, USA","The Wasatch, Utah, USA",multiple,2995 2643 1232 1803 2739 1234 1221,3646,594,219
+2020,"The Wasatch, Utah, USA","The Wasatch, Utah, USA",multiple,2995 2643 1232 1803 2739 1234 407 1221,6868,1047,636
+2021,"The Wasatch, Utah, USA","The Wasatch, Utah, USA",multiple,2995 2643 1232 1803 2739 1234 407 1221,5905,906,417
+2022,"Utah's Wasatch, Utah, USA","The Wasatch, Utah, USA",multiple,2995 2643 1232 1803 2739 1234 407 1221,5073,1053,410
+2018,"Tokyo, Japan","Tokyo, Japan","Tokyo with islands, JP",124352,2428,474,148
+2019,"Tokyo, Japan","Tokyo, Japan","Tokyo, JP",10935,3897,633,154
+2020,"Tokyo, Tokyo, Japan","Tokyo, Japan","Tokyo, JP",10935,1138,416,56
+2021,"Tokyo, Tokyo, JAPAN","Tokyo, Japan","Tokyo_inland, JP",152404,4752,880,135
+2022,"Tokyo, Tokyo, Japan","Tokyo, Japan","Tokyo_inland, JP",152404,2374,674,79
+2021,"Toronto, Ontario, Canada","Toronto, Ontario, Canada",multiple,27584 27589 27601 130376 27608,5831,908,754
+2022,"Toronto and Greater Toronto Area, Ontario, Canada","Toronto, Ontario, Canada",multiple,27584 27589 27601 27608 27610,5060,825,547
+2022,"Toulouse, Occitanie, France","Toulouse, Occitanie, France",Region Toulousaine,178432,5748,999,146
+2020,"Tshwane, Gauteng, South Africa","Tshwane, Gauteng, South Africa","City of Tshwane, GT, ZA",50126,959,537,54
+2021,"Tshwane, Gauteng, South Africa","Tshwane, Gauteng, South Africa","City of Tshwane, GT, ZA",50126,7305,1319,133
+2022,"Tshwane, Gauteng, South Africa","Tshwane, Gauteng, South Africa","City of Tshwane, GT, ZA",50126,4346,956,120
+2021,"Tucson (Greater Tucson Area), Arizona, USA","Tucson, Arizona, USA","Pima County, US, AZ",2346,2547,640,195
+2022,"Tucson, Arizona, USA","Tucson, Arizona, USA","Pima County, US, AZ",2346,5959,1124,403
+2020,"Tulsa Metro Area, Oklahoma, USA","Tulsa, Oklahoma, USA",multiple,711 258 1147 257 259 2981 261 260,1775,720,177
+2019,"Tulsa, OK, USA","Tulsa, Oklahoma, USA","Tulsa County, OK, US",2981,196,142,38
+2018,"Tulsa Region, OK, United States of America","Tulsa, Oklahoma, USA","Tulsa City Wide Nature Challenge 2018, US, OK",123333,1114,575,102
+2019,"Tuxtla Gutierrez, Mexico","Tuxtla Gutierrez, Mexico","Tuxtla Gutiérrez, CA, MX",101694,5744,990,439
+2021,"Tuxtla Gutierrez, Chiapas, México","Tuxtla Gutierrez, Mexico","Tuxtla Gutiérrez, CA, MX",101694,421,216,21
+2022,"Tyler (including Mineola, Longview, Jacksonville, Palestine and Athens), Texas, USA","East Texas, Texas, USA",multiple,1521 803 324 1799 2989 904 404 1716 1220 1492,4863,1225,183
+2022,"Ukraine, Ukraine",Ukraine,Ukraine,8860,7867,1698,240
+2018,"Vancouver, British Columbia, Canada","Vancouver, British Columbia, Canada","Vancouver, British Columbia",122697,795,322,43
+2022,"Greater Vancouver, British Columbia, Canada","Vancouver, British Columbia, Canada",multiple,153631 53787 170167 178277 178278 172596 178300 178301 172977 178357 178343 170168 178345 178379 122697 178346 178355 178356,3120,828,355
+2019,,"Veracruz Metropolitano, Veracruz, México",multiple,37874 37889 37971 119047 38055,,,
+2020,"Zona Metropolitana Veracruz, Veracruz, México","Veracruz Metropolitano, Veracruz, México",multiple,37874 37889 37971 119047 38055,1104,348,36
+2021,"Veracruz Metropolitano, Veracruz, México","Veracruz Metropolitano, Veracruz, México",multiple,37874 37889 37971 119047 38055,2848,613,31
+2022,"Veracruz(Alvarado, Boca del RÃ­o, MedellÃ­n y Veracruz), Veracruz, MÃ©xico","Veracruz Metropolitano, Veracruz, México",multiple,37874 180430 119047 180429,4869,994,154
+2020,"Veraguas, PanamÃ¡","Veraguas, Panamá","Veraguas, PA",13158,2332,858,135
+2021,"Veraguas, Veraguas, Panamá","Veraguas, Panamá","Veraguas, PA",13158,1840,834,55
+2022,"Veraguas, Veraguas, Panama","Veraguas, Panamá","Veraguas, PA",13158,694,500,29
+2022,"Victoria, Sidney, British Columbia, Canada","Greater Victoria, British Columbia, Canada","Capital, CA, BC",49140,7847,1368,392
+2020,"Vienna, Vienna, Austria","Wien, Austria","Wien exakt, AT",129695,5043,1252,111
+2021,"Vienna, Vienna, Austria","Wien, Austria","Wien exakt, AT",129695,6172,1471,148
+2022,"Wien, Vienna, Austria","Wien, Austria","Wien exakt, AT",129695,9328,1851,242
+2022,"Volusia County, Florida, USA","Volusia County, Florida, USA","Volusia County, FL, US",1796,1457,547,116
+2018,"Washington, D.C. Metro Area, United States of America","Washington DC Metro area, USA","Washington Metropolitan Area, US",118683,22800,1856,872
+2019,"Washington, D.C., USA","Washington DC Metro area, USA","Washington Metropolitan Area, US",118683,29942,2258,1258
+2020,"Washington Metropolitan Area, District of Columbia/Virginia/Maryland/West Virginia, USA","Washington DC Metro area, USA","Washington Metropolitan Area, US",118683,27853,2456,1531
+2021,"Washington DC Metro Area, District of Columbia + parts of Virginia, Maryland, & West Virginia, USA","Washington DC Metro area, USA","Washington Metropolitan Area, US",118683,43106,2974,1961
+2022,"Washington DC Metro area, Washington DC Metro Area, USA","Washington DC Metro area, USA","Washington Metropolitan Area, US",118683,38143,2970,2114
+2021,"Western NC (Asheville), North Carolina, USA","Western NC, North Carolina, USA",multiple,1267 2399 1111 2665 3054 1175 1192 919 989 1270 572 879 375 930 946 332 331 1177 2687 876 573 334 216 2714 2727 873,6925,1585,621
+2022,"Wilmington, North Carolina, USA","North Carolina Coastal Plain, North Carolina, USA",multiple,395 1174 1112 490 1401 1269 1191 2772 660 1113 2446 878 1176 1115 506 2078 2953 2180 2955 455 1193 2669 578 601 513 577 1403 1118 215 580 2464 244,3925,1118,333
+2021,"Yilan, Hualien, Taiwan, Taiwan","Yilan-Hualien, Taiwan",multiple,141634 141641,3134,1098,116
+2022,"Yilan, Hualien, Taiwan, Taiwan","Yilan-Hualien, Taiwan",multiple,141634 141641,4874,1283,135
